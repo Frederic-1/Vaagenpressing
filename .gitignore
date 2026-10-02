@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Java / Spring
+target/
+build/
+.gradle/
+
+# Node / React
+node_modules/
+dist/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
